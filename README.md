@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Cloud**
 
-- 🤝 I’m looking for help with **Pipeline building**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
